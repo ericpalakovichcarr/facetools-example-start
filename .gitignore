@@ -1,0 +1,9 @@
+build
+*.pyc
+dist
+virenv
+.idea
+*.db
+docs/_build
+facetools_test_users.json
+FACEBOOK_APPLICATION_SECRET_KEY*

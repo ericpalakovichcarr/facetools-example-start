@@ -1,0 +1,7 @@
+pid=
+
+[https]
+accept=8443
+connect=8000
+cert=tunnel.pem
+TIMEOUTclose=0
